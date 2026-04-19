@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>How to Embed a Video</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<h1>How to Embed a Video</h1>
+
+<h2>Step 1</h2>
+<p>Open YouTube</p>
+<img src="images/step1.png">
+
+<h2>Step 2</h2>
+<p>Click Share</p>
+<img src="images/step2.png">
+
+<h2>Step 3</h2>
+<p>Click Embed</p>
+<img src="images/step3.png">
+
+<h2>Step 4</h2>
+<p>Copy the code</p>
+<img src="images/step4.png">
+
+<h2>Step 5</h2>
+<p>Go to your HTML file and paste the embed code where you want the video to appear on your webpage.</p>
+
+<img src="images/step5.png">
+
+<p>After pasting the code, the video will appear on your website like this:</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U5cK0gVOz_Q?si=cY6TWFKqfrO_I9WG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
