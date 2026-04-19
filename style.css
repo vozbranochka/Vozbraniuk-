@@ -1,0 +1,63 @@
+/* General page style */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f4f8;
+    margin: 0;
+    padding: 20px;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Main container */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Main title */
+h1 {
+    text-align: center;
+    color: #1f2a44;
+    margin-bottom: 30px;
+}
+
+/* Section titles */
+h2 {
+    color: #2c3e50;
+    margin-top: 30px;
+    border-left: 4px solid #4a90e2;
+    padding-left: 10px;
+}
+
+/* Paragraph text */
+p {
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+/* Images (screenshots) */
+img {
+    width: 100%;
+    max-width: 500px;
+    display: block;
+    margin: 10px 0 20px 0;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+}
+
+/* Video */
+iframe {
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+    max-width: 100%;
+}
+
+/* Step blocks */
+.step {
+    background: white;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
